@@ -1,0 +1,4 @@
+kikuchipy[all] >= 0.8.4
+jupyterlab
+pyebsdindex[gpu] >= 0.2.dev0
+PyQt5
