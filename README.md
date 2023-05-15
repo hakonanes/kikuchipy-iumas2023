@@ -3,6 +3,7 @@
 This repository contains the Jupyter notebook making up the presentation of kikuchipy at the Open-Source Data Analysis Workshop taking place as part of IUMAS-8 in Banff, Canada in June 2023.
 
 kikuchipy is a library for analysis of electron backscatter diffraction (EBSD) patterns in Python, built on the tools for multi-dimensional data analysis provided by the HyperSpy library.
+Tutorials and a complete description of all functionality is available at https://kikuchipy.org.
 
 Python packages required to run the notebook are listed in `requirements.txt` and can be installed into a conda/virtual environment with the following command:
 
