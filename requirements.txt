@@ -1,4 +1,5 @@
-kikuchipy[all] >= 0.8.4
+diffsims >= 0.5.2
+kikuchipy[all] >= 0.8.6
 jupyterlab
-pyebsdindex[gpu] >= 0.2.dev0
+pyebsdindex[gpu] >= 0.1.2
 PyQt5
