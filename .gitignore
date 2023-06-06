@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 report.log
+
+# Data saved from the notebook
+*.txt
+*.png
+*.h5
+*.ang
